@@ -7,7 +7,7 @@ int main(){
 
     if (a == b)
     {
-        printf("Both number equals (%d == %d)\n", a, b);
+        printf("Both number equals (%d == %d)\n", a, b); // jika hasilnya sama
     }else{
         if (a > b)
         {
